@@ -1,0 +1,7 @@
+<view class="container">
+  <image class = "avatar" src="/images/avatar/1.png"></image>
+  <text class="motto"><text style="color:red">hello      </text>aqie</text>
+  <view class="journey-container">
+    <text class="journey">点击进入</text>
+  </view>
+</view>
