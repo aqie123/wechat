@@ -1,10 +1,13 @@
+ @import "post-item/post-item-template.wxss";
+ /* 图片样式给swiper */
  swiper{
      width:100%;
      height:600rpx;
  }
- /*less sass*/
+ /*less sass  */
  swiper image{
      width:100%;
      height:600rpx;
  }
- /*文章样式*/
+ 
+
